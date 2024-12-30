@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "id": "t83s0uo763",
+      "content": "Import the \"sb1-dapacs\" folder",
+      "createdAt": "2024-12-30T19:27:04.910Z"
+    },
+    {
+      "role": "assistant",
+      "content": "I've imported the contents of the \"sb1-dapacs\" folder.\n\n<boltArtifact id=\"imported-files\" title=\"Imported Files\">\n<boltAction type=\"file\" filePath=\".env\">\nVITE_SPOTIFY_CLIENT_ID=84cf93977e114c86ba1d03c600bd3b38\r\nVITE_REDIRECT_URI=http://localhost:5173/callback\r\n\n
